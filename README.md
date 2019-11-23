@@ -4,5 +4,5 @@
 
 <h2>Table of content:</h2>
 <ol>
-  <li><a href="https://github.com/peterdu98/applied_statistics/blob/master/normalization.ipynb">Normalization</a></li>
+  <li><a target="_blank" href="https://github.com/peterdu98/applied_statistics/blob/master/normalization.ipynb">Normalization</a></li>
 </ol>
