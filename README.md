@@ -6,6 +6,7 @@
 <h2>Table of content</h2>
 <ol>
   <li><a href="https://github.com/peterdu98/applied_statistics/blob/master/normalization.ipynb">Normalization</a></li>
+  <li><a href="https://github.com/peterdu98/applied_statistics/blob/master/distance_measures.ipynb">Distance Measures</a></li>
 </ol>
 
 <h2>Environments and Dependencies</h2>
@@ -14,4 +15,5 @@
   <li><a href="https://pandas.pydata.org">Install Pandas</a></li>
   <li><a href="https://numpy.org">Install Numpy</a></li>
   <li><a href="http://scikit-learn.github.io/stable">Install scikit-learn</a></li>
+  <li><a href="https://www.scipy.org/install.html">Install SciPy</a></li>
 </ol>
